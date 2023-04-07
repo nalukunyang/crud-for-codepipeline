@@ -1,3 +1,4 @@
+--upgrade pip
 dj-database-url==0.5.0
 django
 pysqlite3
